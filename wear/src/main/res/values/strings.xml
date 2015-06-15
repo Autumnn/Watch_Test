@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Watch_Test</string>
+    <string name="hello_round">Fat Boy will develop!</string>
+    <string name="hello_square">Fat Boy will develop!</string>
+    <string name="title_activity_front">FrontActivity</string>
+
+</resources>
